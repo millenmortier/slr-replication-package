@@ -1,0 +1,1000 @@
+ID,Publication date,Title,Authors,Publication venue,I1,I2,I3,E1,E2,E3,E4,Included
+S1,2015,"Virtual reality in software engineering: Affordances, applications, and challenges",A Elliott B Peiris C Parnin�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,Yes
+S2,2019,On the use of virtual reality in software visualization: The case of the city metaphor,S Romano N Capece U Erra G Scanniello…�,Elsevier,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S3,2019,Enabling human robot interaction in flexible robotic assembly lines: An augmented reality based software suite,N Kousi C Stoubos C Gkournelos G Michalos…�,Elsevier,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S4,2018,Augmented reality software design for educational purposes,ОВ Сироватський СО Семеріков ЄО Модло…,elibrary.kdpu.edu.ua,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S5,2019,Software framework for customized augmented reality headsets in medicine,F Cutolo B Fida N Cattari V Ferrari�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S6,2019,Using Augmented Reality in Software Engineering Education? First insights to a comparative study of 2D and AR UML modeling,R Reuter F Hauser…�,scholarspace.manoa.hawaii.edu,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S7,2017,Vr city: Software analysis in virtual reality environment,J Vincur P Navrat I Polasek�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Yes
+S8,2010,The impact of augmented reality software with inquiry-based learning on students' learning of kinematics graph,TFL Jerry CCE Aaron�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S9,2017,Perceptions of clinical utility of an Augmented Reality musical software among health care professionals,AGD Corr�a GA de Assis…�,Taylor & Francis,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,No
+S10,2014,"Needs' elaboration between users, designers and project leaders: Analysis of a design process of a virtual reality-based software",E Loup,Elsevier,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S11,1998,Visualising software in virtual reality,P Young M Munro�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S12,1994,"Virtual Reality Software & Technology: Proceedings of the VRST'94 Conference, 23-26 August 1994, Singapore",G Singh SK Feiner D Thalmann,books.google.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S13,2015,Exploring software cities in virtual reality,F Fittkau A Krause…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S14,2020,Unleashing the potentials of immersive augmented reality for software engineering,L Merino M Lungu C Seidl�,ieeexplore.ieee.org,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Yes
+S15,2001,An open software architecture for virtual reality interaction,G Reitmayr D Schmalstieg�,dl.acm.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S16,2006,Campar: A software framework guaranteeing quality for medical augmented reality,T Sielhorst M Feuerstein J Traub O Kutter…�,academia.edu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S17,2017,Using augmented reality to support a software editing course for college students,YH Wang�,Wiley Online Library,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S18,2014,Virtual reality AYRA software for preoperative planning in facial allotransplantation,JA Fernandez,journals.lww.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S19,2018,On the effectiveness of virtual reality in the education of software engineering,A Akbulut C Catal B Yıldız�,Wiley Online Library,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S20,2020,Novel patient-specific 3D-virtual reality visualisation software (SpectoVR) for the planning of spine surgery: a case series of eight patients,DM Croci R Guzman C Netzer L Mariani…�,researchgate.net,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S21,2013,Authoring software for augmented reality applications for the use of maintenance and training process,H Ramirez EG Mendivil PR Flores…�,Elsevier,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S22,2013,An augmented reality based mobile software to support learning experiences in computer science courses,U Kose D Koc SA Yucesoy�,Elsevier,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S23,2017,3D augmented reality software solution for mechanical engineering education,Y Aliev V Kozov G Ivanova A Ivanov�,dl.acm.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S24,2001,Visualizing object-oriented software in virtual reality,JI Maletic J Leigh A Marcus…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S25,2008,General-purpose modular hardware and software framework for mobile outdoor augmented reality applications in engineering,AH Behzadan BW Timm VR Kamat�,Elsevier,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S26,2003,Results of a study on software architectures for augmented reality systems,T Reicher A Mac Williams B Brugge…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S27,2018,Overcoming issues of 3D software visualization through immersive augmented reality,L Merino A Bergel O Nierstrasz�,researchgate.net,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S28,2003,Integrating hardware and software: augmented reality based prototyping method for digital products,TJ Nam W Lee�,dl.acm.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S29,2021,Review of the course “Development of Virtual and Augmented Reality Software” for STEM teachers: implementation results and improvement potentials,S Semerikov M Mintii I Mintii,ds.knu.edu.ua,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S30,2013,CalVR: an advanced open source virtual reality software framework,JP Schulze A Prudhomme P Weber…�,spiedigitallibrary.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S31,2015,Virtual reality software and technology,T Komura RWH Lau MC Lin…�,ieeexplore.ieee.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S32,2012,SkyscrapAR: An augmented reality visualization for software evolution,R Souza B Silva T Mendes…�,reuse.cos.ufrj.br,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S33,1998,Software tools for virtual reality application development,A Bierbaum C Just�,Citeseer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S34,2019,Visualization of software architectures in virtual reality and augmented reality,A Schreiber L Nafeie A Baranowski…�,ieeexplore.ieee.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S35,2017,Interactive visualization of software components with virtual reality headsets,A Schreiber M Br�ggemann�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S36,2017,Visualising a software system as a city through virtual reality,N Capece U Erra S Romano G Scanniello�,Springer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S37,2005,A rapid prototyping software infrastructure for user interfaces in ubiquitous augmented reality,C Sandor G Klinker�,Springer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S38,2010,VisAr3D: An approach to software architecture teaching based on virtual and augmented reality,CSC Rodrigues�,dl.acm.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S39,2019,Virtual reality interventions for personal development: A meta-analysis of hardware and software,MC Howard�,Taylor & Francis,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,No
+S40,2008,Virtual reality software and technology,MC Lin MA Otaduy R Boulic�,ieeexplore.ieee.org,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,No
+S41,2019,Cue-elicited anxiety and alcohol craving as indicators of the validity of ALCO-VR software: a virtual reality study,A Ghiţă O Hern�ndez,mdpi.com,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,No
+S42,2010,An augmented reality debugging system for mobile robot software engineers,THJ Collett BA Macdonald,aisberg.unibg.it,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S43,2019,PRIDE PPP-AR: an open-source software for GPS PPP ambiguity resolution,J Geng X Chen Y Pan S Mao C Li J Zhou K Zhang�,Springer,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,No
+S44,2020,Software documentation and augmented reality: love or arranged marriage?,S Chimalakonda ASM Venigalla�,dl.acm.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S45,2018,Virtual reality software package for implementing motor learning and rehabilitation experiments,TB Crocetta LV de Ara�jo R Guarnieri T Massetti…�,Springer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S46,2019,Hands-on: experiencing software architecture in virtual reality,C Zirkelbach A Krause W Hasselbring,oceanrep.geomar.de,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S47,2019,Therapist-led and self-led one-session virtual reality exposure therapy for public speaking anxiety with consumer hardware and software: A randomized controlled trial,P Lindner A Miloff S Fagern�s J Andersen…�,Elsevier,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S48,2018,Virtual reality (VR) and open source software: a workflow for constructing an interactive cartographic VR environment to explore urban landscapes,D Edler A Husar J Keil M Vetter…�,Springer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S49,1999,Virtual reality software and technology,N Magnenat,infoscience.epfl.ch,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S50,2012,Virtual reality learning software for individuals with intellectual disabilities: comparison between touchscreen and mouse interactions,E Loup,hal.archives-ouvertes.fr,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S51,2018,Immersive exploration of osgi-based software systems in virtual reality,M Misiak D Seider S Zur A Fuhrmann…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S52,2004,An experimental study on the role of software synthesized 3D sound in augmented reality environments,Z Zhou AD Cheok X Yang Y Qiu�,academic.oup.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S53,2010,A design and implementation of virtual reality experience software for environment education,MG Lee�,koreascience.or.kr,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S54,2021,Reliability of remote post-mortem veterinary meat inspections in pigs using augmented-reality live-stream video software,V Almqvist C Berg J Hultgren�,Elsevier,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S55,2018,IslandViz: A tool for visualizing modular software systems in virtual reality,M Misiak A Schreiber A Fuhrmann…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S56,2017,Virtual Reality for Real Estate: Its evolution in Bluemind Software,BA Deaky L Parv�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S57,2021,Surveying reality (SurReal): Software to simulate surveying in virtual reality,D Bolkas J Chiampi J Fioti D Gaffney�,mdpi.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S58,2019,Performance comparison of user interface devices for controlling mining software in virtual reality environments,H Kim Y Choi�,mdpi.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S59,2019,Metaphors for software visualization systems based on virtual reality,V Averbukh N Averbukh P Vasev I Gvozdarev…�,Springer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S60,2021,Applying virtual reality to teach the software development process to novice software engineers,U Gulec M Yilmaz V Isler PM Clarke,openaccess.hku.edu.tr,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S61,2017,Towards a methodology to build virtual reality manufacturing systems based on free open software technologies,I Calvo F L�pez E Zulueta…�,Springer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S62,1998,"Advanced graphics behind medical virtual reality: evolution of algorithms, hardware, and software interfaces",Z Soferman D Blythe NW John�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S63,1994,Virtual Reality Software & Technology,D Thalmann G Sings S Feiner G Sigh,academia.edu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S64,2019,An empirical study to investigate the efficacy of collaborative immersive virtual reality systems for designing information architecture of software systems,S Narasimha E Dixon JW Bertrand KC Madathil�,Elsevier,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S65,2001,Visualizing software in an immersive virtual reality environment,JI Maletic J Leigh A Marcus�,Citeseer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S66,2017,Overcoming public speaking anxiety of software engineers using virtual reality exposure therapy,MD Nazligul M Yilmaz U Gulec MA Gozcu…�,Springer,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S67,2005,A generic virtual reality software system's architecture and application,F Steinicke T Ropinski K Hinrichs�,dl.acm.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S68,2019,Speak to your software visualization—exploring component-based software architectures in augmented reality with a conversational interface,P Seipel A Stock S Santhanam…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S69,2019,Evaluation of a virtual reality head mounted display as a tool for posture assessment in digital human modelling software,MA Rizzuto MWL Sonne N Vignais PJ Keir�,Elsevier,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S70,2021,Understanding Software Quality Metrics for Virtual Reality Products-A Mapping Study,M Kuri SA Karre YR Reddy�,dl.acm.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S71,2019,XRaSE: Towards virtually tangible software using augmented reality,R Mehra VS Sharma V Kaulgud…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S72,2020,An augmented reality-based software architecture to support military situational awareness,A Mitaritonna MJ Ab�solo…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S73,2014,Technical possibilities of cloud-based virtual reality implementing software as a service for online collaboration in urban planning,Z Shen Y Ma K Sugihara Z Lei E Shi�,scirp.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S74,2021,An Augmented Reality Symbiosis Software Tool for Sustainable Logistics Activities,V Sidiropoulos D Bechtsis D Vlachos�,mdpi.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S75,1993,A virtual reality application for software visualization,H Amari T Nagumo M Okada…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S76,2005,ARLib: A C++ augmented reality software development kit,D Diggins�,Citeseer,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S77,2016,A case study of the health of an augmented reality software ecosystem: Vuforia,L Soussi Z Spijkerman S Jansen�,Springer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S78,2017,A literature survey: Is it necessary to develop a new software development methodology for virtual reality projects?,U G�le� M Yilmaz V Isler�,researchgate.net,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S79,2020,…�development of immersive virtual reality software for cognitive neuroscience and neuropsychology: the development of virtual reality everyday assessment lab�…,P Kourtesis D Korre S Collina LAA Doumas…�,frontiersin.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S80,2017,A software application framework for developing immersive virtual reality experiences in health domain,Y Wang K Ijaz RA Calvo�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S81,2017,Dynamic analysis of software systems through virtual reality,F Fernandes CS Rodrigues…�,ieeexplore.ieee.org,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S82,2018,Visualizing software architectures in virtual reality with an island metaphor,A Schreiber M Misiak�,Springer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S83,2012,Effectiveness of virtual reality simulation software in radiotherapy treatment planning involving non-coplanar beams with partial breast irradiation as a model,S Glaser B Warfel J Price J Sinacore…�,journals.sagepub.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S84,2014,Engaging computer engineering students with an augmented reality software for laboratory exercises,JRL Benito EA Gonzalez…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S85,2004,Software architectures for designing virtual reality applications,R Capilla M Mart�nez�,Springer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S86,2013,Virtual reality surgical simulator software development tools,GS Ruthenbeck KJ Reynolds�,Taylor & Francis,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S87,2019,Adopting conversational interfaces for exploring OSGi-based software architectures in augmented reality,P Seipel A Stock S Santhanam…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S88,2016,"ArAR—A software tool to promote the robust comparison of K–Ar and 40Ar/39Ar dates published using different decay, isotopic, and monitor-age parameters",CM Mercer KV Hodges�,Elsevier,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S89,2019,Interactive visualization software to improve relief interpretation skills: Spatial data infrastructure geoportal versus augmented reality,C Carbonell,Taylor & Francis,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S90,2021,Bibliometric analysis: Augmented reality-based physics laboratory with VOSviewer software,CR Putri SM Soleh A Saregar…�,iopscience.iop.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S91,2015,Visual analysis of software systems in virtual and augmented reality,P Kapec G Brndiarov� M Gloger…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S92,2017,Development of augmented reality training simulator systems for neurosurgery using model-driven software engineering,H Ghandorh J Mackenzie R Eagleson…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S93,2016,Augmented Reality as experimental art practice: from information overlay to software assemblage,R Wright�,researchgate.net,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S94,2016,Spectrascore vr: Networkable virtual reality software tools for real-time composition and performance,BE Carey�,nime.org,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,No
+S95,2018,Layered software architecture for the development of mobile learning objects with augmented reality,LAR Alvarado EL Dom�nguez YH Vel�zquez…�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S96,1997,Virtual reality software for robotics and manufacturing cell simulation,EA Orady TA Osman CP Bailo�,Elsevier,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S97,2017,An empirical study of open source virtual reality software projects,I Rodriguez X Wang�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S98,2019,Testing virtual reality-based cue-exposure software: Which cue-elicited responses best discriminate between patients with eating disorders and healthy controls?,J Pla,Springer,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S99,2021,Virtual Reality Training Software for Labor Accident Free Process in Construction,V Burlov A Uvarova F Gomazov�,e3s-conferences.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S100,2021,Virtual Reality Training Software for Labor Accident Free Process in Construction,V Burlov A Uvarova F Gomazov�,e3s-conferences.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S101,2021,Design of a virtual reality software to promote the learning of students with dyslexia,S Rodr�guez,mdpi.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S102,2017,Immersed in software structures: A virtual reality approach,R Oberhauser C Lecon�,opus-htw-aalen.bsz-bw.de,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S103,2012,Devices and software possibilities for using of motion tracking systems in the virtual reality system,V Fečov� Ľ Nov�kov�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S104,2009,"Interactive Environments with Open-Source Software: 3D Walkthroughs and Augmented Reality for Architects with Blender 2.43, DART 3.0 and ARToolKit�…",W H�hl,Springer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S105,2018,Augmented reality supported modeling of industrial systems to infer software configuration,M Tomlein K Gr�nb�k�,dl.acm.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S106,2019,Improving Design Software Based On Fuzzy Kano Model: A Case Study of Virtual Reality Interior Design Software.,K Xu YV Chen L Zhang L Rui�,Taylor & Francis,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S107,2019,Development of the software application for the building information models in augmented reality mode visualization,A Konyagin L Shilova�,iopscience.iop.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S108,2020,Software prototype based on augmented reality for mastering vocabulary,M Begic M Cirimotic I Farkas I Skoric…�,ieeexplore.ieee.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S109,2019,Software techniques to reduce cybersickness among users of immersive virtual reality environments,K Choroś P Nippe�,Springer,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S110,2021,Automatic Extraction of Code Dependency in Virtual Reality Software,J Molina X Qin X Wang�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S111,2002,Enhancing spatial visualization through Virtual Reality (VR) on the web: Software design and impact analysis,ON Kwon SH Kim�,learntechlib.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S112,2020,MVC-3DC: Software architecture model for designing collaborative augmented reality and virtual reality systems,S Benbelkacem N Zenati,Elsevier,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S113,2019,"Integration of properties of virtual reality, artificial neural networks, and artificial intelligence in the automation of software tests: A review",E Serna M E Acevedo M…�,Wiley Online Library,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S114,2020,UnrealNavigation: Simulation software for testing SLAM in virtual reality,AM Bettens B Morrell M Coen N McHenry…�,arc.aiaa.org,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S115,2004,Study on Software Architectures for Augmented Reality Systems,B Br�gge A MacWilliams T Reicher,mediatum.ub.tum.de,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S116,2012,ARCS: A framework with extended software integration capabilities to build Augmented Reality applications,JY Didier M Chouiten M Mallem…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S117,2021,Unity game engine: Interactive software design using digital glove for virtual reality baseball pitch training,YT Tsai WY Jhu CC Chen CH Kao…�,Springer,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,No
+S118,2019,Visualization of a Software System in Virtual Reality,D Heidrich A Schreiber�,dl.acm.org,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S119,2019,Visualization of a Software System in Virtual Reality,D Heidrich A Schreiber�,dl.acm.org,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S120,2004,Developing multimedia software and virtual reality worlds and their use in rehabilitation and psychology,CS L�nyi V Laky A Tilinger I Pataky…�,books.google.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S121,2021,Collaborative Software Modeling in Virtual Reality,E Yigitbas S Gorissen N Weidmann…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S122,2021,Optimization of building model based on 5G virtual reality technology in computer vision software,Z Zhuang�,aimspress.com,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S123,2011,Teaching scrum to software engineering students with virtual reality support,G Rodr�guez A Soria M Campo�,Springer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S124,2014,Virtual Reality Software Usage in an EFL Scenario: An Empirical Study.,YL Chen�,Citeseer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S125,1998,Virtual reality software and technology archive,R Lau Y Chrysanthou R Darken H Iwata JW Chastine…,sm.luth.se,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S126,2018,Research and software development using AR technology,DA Smuseva AY Rolich�,iopscience.iop.org,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S127,2017,Searching and exploring software repositories in virtual reality,J Vincur I Polasek P N�vrat�,dl.acm.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S128,2018,Visualizing and exploring OSGi-based software architectures in augmented reality,A Baranowski P Seipel A Schreiber�,dl.acm.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S129,2020,Vlad-Virtual Reality Application for Treatment of Psychosomatic Conditions: A report at final stage of software validation process,SM Pappalardo�,cab.unime.it,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S130,2018,Adopting virtual reality as a medium for software development process education,U Gulec M Yilmaz V Isler RV O'Connor…�,dl.acm.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S131,2019,Live software development environment using virtual reality: A prototype and experiment,D Amaral G Domingues JP Dias HS Ferreira…�,Springer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S132,2004,Virtual reality robotic programming software in the technology classroom,J Geissler PJ Knott MR Vazquez…�,search.proquest.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S133,2018,Implementation of a Virtual Reality Streaming Software for Network Performance Evaluation,K Takayama Y Machidori K Sugita�,Springer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S134,2007,Reusable modular software interfaces for outdoor augmented reality applications in engineering,AH Behzadan VR Kamat�,ascelibrary.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S135,2013,ThePedagogical Virtual Machine: Supporting Learning Computer Hardware and Software via Augmented Reality,M ALRASHIDI V CALLAGHAN…�,academia.edu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S136,2019,"NextMed, Augmented and Virtual Reality platform for 3D medical imaging visualization: Explanation of the software platform developed for 3D models visualization�…",SG Izard �A Plaza RS Torres JAJ M�ndez…�,dl.acm.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S137,2017,Penerapan Augmented Reality Untuk Pemasaran Produk Menggunakan Software Unity 3D Dan Vuforia,GG Maulana�,neliti.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S138,2018,Interactive multiplatform software to mitigate arachnophobia through augmented reality,ARG Plasencia ME Escobar,3.65.204.3,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S139,2021,Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality,L Quintero JE Munoz J De Mooij…�,ieeexplore.ieee.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S140,2006,Modeling incremental faults of software testing process using AR models,A Sheta D Rine�,uop.edu.jo,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S141,2021,PlaySAFe: Results from a Virtual Reality Study Using Digital Game-Based Learning for SAFe Agile Software Development,E O'Farrell M Yilmaz U Gulec P Clarke�,Springer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S142,2020,Four-dimensional virtual reality cine cardiac models using free open-source software,S Priya P Nagpal�,Springer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S143,2018,Analisis Perbandingan Media Marker Augmented Reality Menggunakan Software Unity 3D,ML Famukhit�,ejournal.stkippacitan.ac.id,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S144,1996,Virtual reality-An approach to improve the generation of fault free software for programmable logic controllers (PLC),D Spath U Osmers�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S145,2016,A software framework for augmented reality-based support of industrial operations,ID Peake JO Blech M Schembri�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S146,2020,"Software expanding Dance using Virtual Reality, Boids and Genetic Algorithms",C C�poral C de Lima…�,tepe.estudiosdedanca.pt,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S147,2021,Comparative Study of an Augmented Reality Software Development Kit Suitable for Forensic Medicine Education,K Tongprasom W Boongsood W Boongsood…�,ijiet.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S148,2018,Visualization of software components and dependency graphs in virtual reality,L Nafeie A Schreiber�,dl.acm.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S149,2020,The effect of virtual reality control of a robotic surrogate on presence and social presence in comparison to telecommunications software,BA Mackey PA Bremner M Giuliani�,dl.acm.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S150,2010,A study on software-based sensing technology for multiple object control in AR video,S Jung J Song DJ Hwang JY Ahn S Kim�,mdpi.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S151,2009,Developing an agent-based training simulation using game and virtual reality software: experience report,D Richards J Porte�,dl.acm.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S152,2012,The architecture of Internet software environment for creating teachware with virtual reality,VV Gribova LA Fedorischev�,Springer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S153,2015,VR| ServE: a software toolset for service engineering using virtual reality,P Westner S Hermann�,Springer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S154,2021,Design and Implementation of Data Processing Software for Internet of Things Based on Virtual Reality,Y Liu X Liu S Xu�,hindawi.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S155,2018,Self-organized design of virtual reality simulator for identification and optimization of healthcare software components,AK Srivastava S Kumar M Zareapoor�,Springer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S156,2010,Building virtual reality design system based on division mockup software,L Li J Li F Du D Si�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S157,2010,Building virtual reality design system based on division mockup software,L Li J Li F Du D Si�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S158,2009,Training software using virtual-reality technology and pre-calculated effective dose data,A Ding D Zhang XG Xu�,journals.lww.com,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S159,2007,Software testing applications based on a virtual reality system,XY Zhao LM Xu H Li�,journal.uestc.edu.cn,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S160,2002,Data interface software for windows PC-compatible virtual reality scene graphs,P Banerjee�,asmedigitalcollection.asme.org,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S161,2009,Coupling virtual reality open source software using message oriented middleware,F Rodrigues R Ferraz M Cabral F Teubl…�,academia.edu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S162,2021,Towards immersive software archaeology: regaining legacy systems' design knowledge via interactive exploration in virtual reality,A Hoff M Nieke C Seidl�,dl.acm.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S163,2021,Self-adapting Industrial Augmented Reality Applications with Proactive Dynamic Software Product Lines,I Ayala M Amor L Fuentes…�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S164,2021,To VR or not to VR: Is virtual reality suitable to understand software development metrics?,D Moreno,arxiv.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S165,2019,Incorporating a Virtual Reality Environment in the Teaching of Analysis of Software Requirements,O Ochoa A Babbit�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S166,2013,Requirements Prioritization by End-users and Consequences on Design of a Virtual Reality Software-An Exploratory Study,EL Escande O Christmann�,scitepress.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S167,2020,O29 Development of a Virtual Reality Avatar Software Program to Prevent Obesity in Children From Low-Income Communities,J McGuirt O Dyson B Enahora C Rhea�,Elsevier,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S168,2021,The development of mathematics teaching materials integrating by Augmented Reality Software and Android for deaf students,H Anshori K Novianingsih�,iopscience.iop.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S169,2020,Immersive IDE: Towards leveraging virtual reality for creating an immersive software development environment,R Mehra VS Sharma V Kaulgud S Podder…�,dl.acm.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S170,2002,Incorporating the culture of virtual reality games into educational software via an authoring tool,M Virvou C Manos G Katsionis…�,Citeseer,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S171,2019,"Augmented reality and experiences: Augmented reality, virtual reality, software, mobile AR, browsers, types, experience, application",P Selvaraj S Doraikannan AR Rathinam…�,igi-global.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S172,2009,Virtual reality implementation as a useful software tool for e-health applications,G Saggio G Latessa F De Santis…�,ieeexplore.ieee.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S173,2003,Immersive visual modeling: Potential use of virtual reality in teaching software design,BJ Neubauer JD Harris�,dl.acm.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S174,2010,AFLP runner (AR): A software for prediction and analysis Of AFLP,M Zhang S Liang L Huang Y Sun…�,ieeexplore.ieee.org,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S175,1999,A Software Toolkit for implementing low-cost virtual reality training systems,MN Louka,inis.iaea.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S176,1999,A Software Toolkit for implementing low-cost virtual reality training systems,MN Louka,inis.iaea.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S177,2021,…�Academy of Neuropsychology and American Academy of Clinical Neuropsychology: A software review of the Virtual Reality Everyday Assessment Lab (VR�…,P Kourtesis SE MacPherson�,Elsevier,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S178,2019,Augmented and virtual reality interfaces for crowd simulation software-a position statement for research on use-case-dependent interaction,W H�rst R Geraerts�,ieeexplore.ieee.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S179,2021,Comparing software frameworks of Augmented Reality solutions for manufacturing,SSVK Kolla A Sanchez P Plapper�,Elsevier,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S180,2000,Design of interactivity in virtual reality applications with emphasis on educational software using formal interaction specification,CN Diplas PE Pintelas�,Springer,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S181,2008,Virtual reality for 2.5 G wireless communication modem software development,A Pegatoquet F Thoen…�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,No
+S182,1998,Virtual reality software really flies,A Wimsatt�,go.gale.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S183,2011,Augmented Reality Software Kits for Smart Phones,AB Craig RE McGrath A Gutierrez,ideals.illinois.edu,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S184,2017,Analysis of software gamification for teaching architects in immersive virtual reality.,O Kysil�,intersections.tuiasi.ro,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S185,2021,Algorithms for Controlling the Hardware and Software Platform for Moving in Virtual Reality,D Dedov V Vostrikova E Surkova�,iopscience.iop.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S186,1998,Virtual reality in psychotherapy: The Mythseeker software,II Rogers MC Brooks�,ebooks.iospress.nl,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S187,2015,A proposed hardware-software architecture for Virtual Reality in industrial applications,F Chionna P Cirillo V Palmieri M Bellone�,Springer,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S188,2013,A software architecture for high-level development of component-based distributed virtual reality systems,VY Kharitonov�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S189,2018,Battling the fear of public speaking: Designing software as a service solution for a virtual reality therapy,J Salkevicius L Navickas�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S190,2012,From VR to AR: Adding AR Functionality to an Existing VR Software Framework,F Mannu� A Hinkenjann�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S191,2021,Virtual Observations: a software tool for contextual observation and assessment of user's actions in virtual reality,S Howie M Gilardi�,Springer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S192,2019,Live software development environment for Java using virtual reality,D Amaral G Domingues JP Dias…�,repositorio-aberto.up.pt,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S193,2018,Evaluating commodity hardware and software for virtual reality assembly training,ER Dodoo B Hill A Garcia A Kohl…�,ingentaconnect.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S194,2021,Software Usability Evaluation for Augmented Reality Through User Tests,G Kawakami A Khurshid MR Gadelha�,Springer,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S195,2021,Software Usability Evaluation for Augmented Reality Through User Tests,G Kawakami A Khurshid MR Gadelha�,Springer,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S196,1994,Software Patents: Myth vs. Virtual Reality,JJ Blatt�,HeinOnline,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,No
+S197,2020,Towards immersive comprehension of software systems using augmented reality: an empirical evaluation,R Mehra VS Sharma V Kaulgud S Podder…�,dl.acm.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S198,2021,Examining the Feasibility of Early Mobilization With Virtual Reality Gaming Using Head-Mounted Display and Adaptive Software With Adolescents in the�…,B Lai M Powell AG Clement D Davis…�,rehab.jmir.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S199,2019,Utilizing modern virtual reality technology in software development for city planning,T Salminen,helda.helsinki.fi,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S200,2017,BrainWatch software for interactive exploration of brain scans in 3D virtual reality systems,SK Taswell T Veeramacheneni…�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S201,2020,An Experiment Process Driving Software Framework for Virtual–Reality Fusion,Y Liang Y Wang Y Jin�,Springer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S202,2002,A software system for temporal data visualization in virtual reality,HR Nagel E Granum�,researchgate.net,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S203,2021,Projecting Robot Navigation Paths: Hardware and Software for Projected AR,Z Han J Parrillo A Wilkinson HA Yanco…�,arxiv.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S204,2021,Projecting Robot Navigation Paths: Hardware and Software for Projected AR,Z Han J Parrillo A Wilkinson HA Yanco…�,arxiv.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S205,2017,"A Toolkit for Virtual Reality Software Development-Investigating Challenges, Developers, and Users",TM Takala,aaltodoc.aalto.fi,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S206,2013,Skill of improving quality and loading speed of virtual reality software,KW Lee MK Oh�,Citeseer,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S207,2021,Virtual Reality Software as Preparation Tools for Oral Presentations: Perceptions From the Classroom,MJ Alsaffar�,tpls.academypublication.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S208,2021,VTQuestAR: An Augmented Reality Mobile Software Application for Virginia Tech Campus Visitors,Z Yao,vtechworks.lib.vt.edu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S209,2010,Software in distance education: An application using virtual reality,AS Pereira SD Piovesan�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S210,2020,Perceive 3D: Augmented Reality Software Kicks Off a New Phase in Knee Surgery and Rehabilitation,G Riva E Riva�,liebertpub.com,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S211,2020,In vitro virtual reality: an anatomically explicit musculoskeletal simulation powered by in vitro muscle using closed-loop tissue–software interaction,CT Richards EA Eberhard�,journals.biologists.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S212,2020,In vitro virtual reality: an anatomically explicit musculoskeletal simulation powered by in vitro muscle using closed-loop tissue–software interaction,CT Richards EA Eberhard�,journals.biologists.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S213,2017,Study of electric propulsion by using virtual reality software,D Fodorean�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S214,2020,VIRTUAL REALITY SYSTEM SOFTWARE FOR HIGH SCHOOL DISCIPLINES,VI Bondarev�,elibrary.ru,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S215,2010,Guest Editor's Introduction: Special Section on the ACM Symposium on Virtual Reality Software and Technology,M Hachet E Kruijff�,researchgate.net,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S216,2020,The course “Development of virtual and AR software” for STEM teachers,M Mintii,ds.knu.edu.ua,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S217,1996,WAVEVISIONS: A desktop virtual reality software,EK Koh�,Elsevier,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S218,2021,"Review of the course"" Development of Virtual and Augmented Reality Software"" for STEM teachers: implementation results and improvement potentials",СО Семеріков ММ Мінтій ІС Мінтій,elibrary.kdpu.edu.ua,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S219,2013,Design of an Intelligent Interface for the Software Mobile Agents using Augmented Reality.,K Kurane M Takimoto Y Kambayashi�,scitepress.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S220,2007,User interfaces for complex engineering software: Application of virtual reality,M Taylor J Miles D Bouchlaghem…�,ascelibrary.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S221,2007,User interfaces for complex engineering software: Application of virtual reality,M Taylor J Miles D Bouchlaghem…�,ascelibrary.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S222,2012,The AR Drone LabVIEW Toolkit: A Software Framework for the Control of Low-Cost Quadrotor Aerial Robots,M Mogenson,search.proquest.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S223,1998,Making information overload work: The Dragon software system on a virtual reality responsive workbench,J Durbin S Julier B Colbert B Doyle R King T King…,apps.dtic.mil,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S224,2019,Building Faculty Competence and Self-Efficacy for Using Z Space Virtual Reality (VR) Software in the Classroom,KM Wolz,epublications.regis.edu,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S225,1996,Agent augmented reality: A software agent meets the real world,K Nagao�,ci.nii.ac.jp,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S226,2016,Software Requirements for Mobile Augmented Reality Tourism Application,RA DAHLAN�,seminar.utmspace.edu.my,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S227,1983,Software system for the operation of the TRISTAN-AR Power supply,K Endo T Kubo A Kabe H Fukuma…�,ieeexplore.ieee.org,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S228,1995,Introduction to the special issue on virtual reality software and technology,DR Olsen Jr G Singh SK Feiner�,dl.acm.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,No
+S229,2018,Teaching multidisciplinary teams requirements for undergraduate students: an approach to augmented reality software in design thinking context,EM de Almeida EF Damasceno…�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S230,2018,Teaching multidisciplinary teams requirements for undergraduate students: an approach to augmented reality software in design thinking context,EM de Almeida EF Damasceno…�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S231,2007,Development of a 6-DOF rehabilitation robot and its software for clinical evaluation based on virtual reality,T Kikuchi J Furusho K Oda Y Jin C Li…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,No
+S232,2013,Dynamic geometry software and augmented reality samples for high school descriptive geometry teaching,V Viana�,dialnet.unirioja.es,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S233,2019,Assessing the Value of 3D Software Experience with Camera Layout in Virtual Reality,D Hawes R Teather A Arya…�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S234,2010,Combination of Simulation Software and Virtual Reality for Technological Workplaces Design,J Novak,Citeseer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S235,2015,Design of sensor-based augmented reality software (SARAS),D Erışık A Karaman GI Alptekin…�,ieeexplore.ieee.org,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S236,2018,Hardware and software for ar/vr development,P Ballo�,books.google.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S237,2020,The effect of augmented reality based mobile software on students' academic achievement,H Kamışlı B �znacar�,content.iospress.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S238,2017,Design of a Node Status Visualizing Software Utilizing the AR Technology for Multihop Wireless Networks,T Ohta R Ito Y Kakuda�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S239,2017,Design of a Node Status Visualizing Software Utilizing the AR Technology for Multihop Wireless Networks,T Ohta R Ito Y Kakuda�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S240,2020,MazeMaster: an open-source Python-based software package for controlling virtual reality experiments,A Bexter BM Kampa�,biorxiv.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S241,1993,Overview of Virtual Reality Software Suppliers.,C McNaughton,books.google.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S242,2010,"GameBuilder, an outdoor AR creation software",C Zhang,dspace.mit.edu,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S243,2019,"Materials Genome Software Framework: Scalable Parallel Simulation, Virtual Reality Visualization and Machine Learning",A Mishra N Baradwaj L Bassman…�,researchgate.net,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S244,2009,Designing a DSL solution for the domain of Augmented Reality Software applications Specification,A Rosa V Amaral B Barroca�,Springer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S245,2006,Virtual Reality edutainment: cost-effective development of personalised software applications,M Virvou K Manos G Katsionis�,Springer,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S246,2021,Virtual reality-based cognitive stimulation using GRYDSEN software as a means to prevent age-related cognitive-mobility disorders–a pilot observational�…,M Podhorecka J Andrzejczak R Szrajber…�,ht.csr-pub.eu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S247,0,"Virtual Reality in Software Engineering: A future of Software Development, Modeling, and Quality Assurance",SM Reza O Badreddin,smreza.com,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S248,2014,"Experiences in software engineering education: using scrum, agile coaching, and virtual reality",E Scott G Rodr�guez �Soria…�,igi-global.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S249,2020,DEVELOPMENT CONCEPTS OF VIRTUAL REALITY SOFTWARE.,P Čisar S MARAVIĆ ČISAR�,search.ebscohost.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S250,2018,Design and Implementation of Software with Mobile Study in English Listening# br# and Speaking Based on Augmented Reality,H Min L Hong�,cam.org.cn,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S251,2014,Software Design for Virtual Reality Applications,A Rettig�,Springer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S252,2015,Using virtual reality technology and hand tracking technology to create software for training surgical skills in 3D game,AA Zakirova BA Ganiev RI Mullin�,aip.scitation.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S253,2018,Adopting Augmented Reality for the Purpose of Software Development Process Training and Improvement: An Exploration,İ Ohri İ �ge B Orkun M Yilmaz E Tuzun…�,Springer,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S254,2020,Development of software for an information system that points the way using augmented reality technology,AI Martyshkin EG Bershadskaya�,lamjol.info,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S255,0,Agent Augmented Reality: A Software Agent Meets the Real World Katashi Nagao and Jun Rekimoto,K Nagao,aaai.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S256,2001,User interface for the virtual reality prototyping of micro-electro-mechanical systems software design tools,OT Bourne R Sitte�,spiedigitallibrary.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S257,2015,Augmented Reality for Tourism in Oman Using Free Open Source Software,A Al Maashri S Al,fossc.om,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S258,2015,Augmented Reality for Tourism in Oman Using Free Open Source Software,A Al Maashri S Al,fossc.om,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S259,2013,Hardware and software considerations for RAIOM Mobile Augmented Reality Framework,A Mitaritonna MJ Ab�solo,academia.edu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S260,2011,Design and Realization of Virtual Reality 3D Software of Coal Mine Safety Based on OGRE,EN Bing,cam.org.cn,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S261,2011,Virtual reality and estimating practice: A software selection model for estimating,OA Olatunji�,researchgate.net,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S262,2020,An Object-oriented Software Framework for Immersive Virtual Reality Exergames,Y Wang,ses.library.usyd.edu.au,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S263,2014,A hardware and software architecture to deal with multimodal and collaborative interactions in multiuser virtual reality environments,P Martin A Tseu N F�rey D Touraine…�,spiedigitallibrary.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S264,2020,Research on the Augmented Reality Applications in Children's Edutainment Software,X Chen T He S Lin�,World Scientific,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S265,2021,WebAssembly enables low latency interoperable augmented and virtual reality software,BB Khomtchouk�,arxiv.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S266,2018,VRChem: A molecular modeling software for virtual reality,O Pietik�inen,aaltodoc.aalto.fi,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S267,2014,AESIGN OF AN INTERACTIVE AUGMENTED REALITY PRESENTATION SOFTWARE BASED ON HAND GESTURE RECOGNITION,O Atoui,dspace.univ-msila.dz,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S268,2012,Design and implementation of virtual reality software with psychological treatment for drug-dependent patients,B Yang X Zhao Y Ou J Zhang Q Li…�,europepmc.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S269,2011,Guest Editors' Introduction: Special Section on the ACM Symposium on Virtual Reality and Software Technology (VRST 2009),D Thalmann B Lok�,researchgate.net,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S270,2020,Experimental Models in Rheumatoid Ar-thritis: A Systematic Review using the IRAMUTEQ software,VA Zorgetto,researchgate.net,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S271,2013,A software environment for visualizing high-dimensional data using contextual self-organizing maps linked with immersive virtual reality,T Richardson�,core.ac.uk,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S272,2020,Identifying Usability Issues of Software Analytics Applications in Immersive Augmented Reality,D Baum S Bechert U Eisenecker…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S273,2006,A New Software Development Tools with Virtual Reality for Computer Integrated Manufacturing Requirements Analysis,HF Manesh M Hashemipour�,JSTOR,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S274,2019,Visualization of Component-Based Software Architectures: A Comparative Evaluation of the Usability in Virtual Reality and 2D,M Schaller A Schreiber�,Springer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S275,2010,Research on mining virtual reality system based on creator software,Z Guoliang Z Bingchao�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S276,2005,MAGE-VR: a software framework for virtual reality application development,A Mathew L Deligiannidis�,Citeseer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S277,2019,Integrating virtual reality software into the early stages of ship design,C Cassar RJ Simpson N Bradbeer…�,researchgate.net,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S278,2017,Virtual reality-based software for the treatment of fibromyalgia: a case study,F Vilalta,diposit.ub.edu,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S279,2008,Software Module for Data Exchange Between AutoCAD and a Virtual Reality System,G Oancea F Girbacia A Nedelcu�,Springer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S280,2021,Application Analysis of Intelligent Computer Software Online Guiding Based on Virtual Reality,C Hu C Li�,ieeexplore.ieee.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S281,0,Educational Software based on Augmented Reality: A Systematic,EJ Sosaa RA Aguilara JL L�pezb OS G�mezc,researchgate.net,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S282,2012,Exposing Proprietary Virtual Reality Software to Nontraditional Displays,M Mory S Masik R M�ller V K�ppen�,wscg.zcu.cz,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S283,2001,Sensor modeling for virtual reality micro-electro-mechanical systems (MEMS) software design tools,K Udono R Sitte�,spiedigitallibrary.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S284,2004,blue-c API: Software support for collaborative virtual reality,MA N�f,research.navisto.ch,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S285,2017,Virtual reality in cognitive interventions for older adults and its application in the GRADYS training software. Wirtualna rzeczywistoœć w interwencjach�…,L Zając,gerontologia.org.pl,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S286,2014,Achievement of virtual reality system by hardware/software co-design,W Yan W Wu Y Shao J An�,ingentaconnect.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S287,2021,Fishtank Sandbox: A Software Framework for Collaborative Usability Testing of Fish Tank Virtual Reality Interaction Techniques,V Jangid S Kongsilp�,dl.acm.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S288,2013,Education software design of electronic technique that based on virtual reality technology,H Liang B Xiaoming�,Springer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S289,1994,A development of dummy head recording system for software production of virtual reality,T Kawai K Noro�,jstage.jst.go.jp,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S290,2018,Studi Evaluasi Penggunaan Software Bajakan Di Kalangan Mahasiswa Ftk Uin Ar-Raniry,BA Majid S Vivianie B Yusuf�,jurnal.ar-raniry.ac.id,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S291,2018,Usability evaluation of the interactive 3D virtual reality cultural heritage museum display: Fountain of the lions software application,T JG A Wolff JC Torres HT My�,scholar.archive.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S292,2021,Activ Surgical Introduces ActivInsights Augmented Reality Software Suite,M Hamilton,search.proquest.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S293,2021,Augmented reality in ophthalmology: development of a software interface for interaction with a virtual reality headset,VD Mikhalchuk AN Epikhin�,iopscience.iop.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S294,2007,Development of a Software Framework for a Networked Wearable Augmented Reality System,D Takada T Ogawa K Kiyokawa…�,Citeseer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S295,2015,A Framework for Safety Training Using Virtual Reality Software,R Riad,stars.library.ucf.edu,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S296,2018,Software for Analyzing User Experiences in Virtual Reality using Eye Tracking,J Iacobi,diva-portal.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S297,2008,Virtual Reality for Modem Software Development–Enabling Pre-silicon Software Development and Validation for 2.5 G Wireless Communication,A Pegatoquet F Thoen D Paterson�,hal.archives-ouvertes.fr,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S298,2018,Design and validation of Virtual Reality Exposure Therapy Software for treatment of flying phobia,J Rasti G Manshaee P Eslami�,jsr-p.khuisf.ac.ir,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S299,1991,"Systems, Software, ar",JD Nicoud JA Fulcher DW Russell KB Haden,ieeexplore.ieee.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S300,2020,Software Proposal Document for project Educational Augmented Reality,S Gabr,repository.msa.edu.eg,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S301,2020,Visualization of Evolution of Component-Based Software Architectures in Virtual Reality,EF Heidmann L von Kurnatowski…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S302,2009,"Interaktive Ambiente mit Open-Source-Software: 3D-Walk-Throughs und Augmented Reality f�r Architekten mit Blender 2.43, DART 3.0 und ARToolKit 2.72",W H�hl,Springer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S303,1982,software ar well.,NL UEBBA EIN COlpTBOL AJ Laub,ieeexplore.ieee.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S304,2008,E‐maintenance Scenarios Based on Augmented Reality Software Architecture,S Benbelkacem N Zenati‐Henda…�,aip.scitation.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S305,2010,"Characterizing people as non-linear, first-order components in software development, is written by Alistair AR Cockburn and published in Humans and Technology�…",L Bernstein�,dl.acm.org,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S306,0,On Software Design for Augmented Reality,D Schmalstieg,Citeseer,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S307,2009,Software-Agents for On-Demand Authoring of Mobile Augmented Reality Applications,R Radkowski�,Springer,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S308,2019,Implementation of a Quality Measurement Software for Virtual Reality Content on a head mount display,K Takayama Y Machidori…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S309,2015,Developing digital hall of prayer for good harvest software to promote historical culture by applying virtual reality technology,Z Ni Z Gao�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S310,2021,Waveform Visualization in Augmented Reality Using Electric Machines and Software-Defined Radio with High Dynamic Range Signal Compositing,PV Do,search.proquest.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S311,2020,SImBa: An Augmented Reality approach for creating Smart Immersive Bays in Software Delivery Environments,VS Sharma R Mehra V Kaulgud…�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S312,2021,A SOFTWARE TOOL FOR USING AN AUGMENTED REALITY SANDBOX TO CALCULATE VOLUME CHANGE,D Paglia,digitalcommons.mtu.edu,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S313,2010,A longitudinal study of participative construction of requirements in real innovative projects: the case of a virtual reality software for product design,E Loup,researchgate.net,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S314,2014,…�photorealistic and immersive virtual-reality environments for simulated prosthetic vision: integrating recent breakthroughs in consumer hardware and software,MP Zapf PB Matteucci NH Lovell…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S315,2012,Visualization software with VR juggler for immersive virtual reality environment,D Meno A Kageyama Y Masada�,jstage.jst.go.jp,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S316,2021,Design of individual soldier situation generation software based on AR,WX Ma KK Pei M Zhang XD Fan�,iopscience.iop.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S317,2019,Use of Virtual and Augmented Reality in Design of Software for Airspace,T Malich L Hanakova V Socha…�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S318,2017,Educational software for the teaching of astronomy using immersive virtual reality,D Calderon DM Rivera�,sciresol.s3.us-east-2.amazonaws…,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S319,2010,A software architecture for adapting virtual reality content to mobile devices,J Barbosa Dias J�nior AD Silva…�,Springer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S320,2019,Towards Gamifying Software Structure Comprehension in Virtual Reality,R Oberhauser C Lecon�,actapress.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S321,2016,The effect of virtual reality exposure on fear of public speaking using cloud-based software,H Lister,unbscholar.lib.unb.ca,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S322,0,Development a Software with Augmented Reality Using Unreal Engine 4,V Kushnir B Koman R Shuvar,elct.lnu.edu.ua,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S323,2013,Designing a Virtual Reality software: what is the real contribution of end-users to the requirements prioritization?,E Loup,Springer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S324,2020,Comparative Analysis of Software Quality Models for the Evaluation of Virtual Reality Contents,M Choi JY Kim�,scholar.archive.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S325,2019,Evaluating the Navigation in Software Visualization in Augmented Reality with Speech Processing,A Stock,elib.dlr.de,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S326,2020,Comparative Analysis of Software Quality Models for the Evaluation of Virtual Reality Contents,M Choi JY Kim�,scholar.archive.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S327,2019,Evaluating the Navigation in Software Visualization in Augmented Reality with Speech Processing,A Stock,elib.dlr.de,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S328,2021,USE OF AUGMENTED REALITY TECHNOLOGIES IN SOFTWARE FOR INTERACTIVE VISUALIZATION OF THREE-DIMENSIONAL OBJECTS ON INDUSTRIAL�…,YV Ulianovska TM Rudyanova…�,st-journal.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S329,2018,Towards virtual reality immersion in software structures: Exploring augmented virtuality and speech recognition interfaces,R Oberhauser C Lecon�,hs-aalen.de,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S330,2019,A comparative analysis of virtual-reality art-making software for the production of VR digital holograms,I Pioaru DT Stokes�,spiedigitallibrary.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S331,2014,Openflow-controlled revenue-driven AR service provisioning in software-defined elastic optical networks,S Ma W Lu C Chen X Chen…�,osapublishing.org,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S332,2020,The course “Development of virtual and AR software” for STEM teachers,ММ Мінтій,elibrary.kdpu.edu.ua,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S333,0,A Comparative Analysis of Mobile AR Software with the Application to the Archeological Site Medijana,D Tatić Č Stefanović D Stanković,rcvt.tu-sofia.bg,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S334,2021,…�OF A SOFTWARE APPLICATION FOR STUDYING THE WORK OF THE HEART SYSTEM OF THE HUMAN BODY WITH ELEMENTS OF AUGMENTED REALITY,YN Amangeldi GU Bektemisova�,elibrary.ru,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S335,2019,The Implementation of Virtual Reality Software for Multidisciplinary Ship Design Revision,C Cassar N Bradbeer G Thomas,discovery.ucl.ac.uk,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S336,2008,The study for software future forecasting failure time using ARIMA AR (1),HC Kim HC Shin�,koreascience.or.kr,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S337,,Development of Augmented Reality Based Mobile Robot Maintenance Software,H GEN�T�RK U YAYAN�,ieeexplore.ieee.org,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S338,2019,Human centred software testing using augmented reality,K Camilleri,um.edu.mt,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S339,2001,Use of VR (virtual reality) software for preoperative implantation fitting with an implantable hearing aid as an example,F Dammann A Bode M Heuschmid…�,europepmc.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S340,2014,An 3D interactive virtual reality software toolkit for minimally invasive vascular surgery,S Mi Z Hou F Yang�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S341,2018,Automatically Generate 3D Model of GIS Data for Augmented Reality Software,F Saadatjoo E Abedi MJ Rezaei�,gej.issge.ir,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S342,2021,Hardware and Software Complex for Restoring Motor Functions Based on Virtual Reality and Brain-Computer Interface,IY Nekrasova VS Vorontsova…�,journals.eco-vector.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S343,0,VIRTUAL REALITY SOFTWARE TAXONOMY,S Richir R Rolland,m.doyoubuzz.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S344,2006,Lea: Software system for multimedia and virtual-reality web-based education and training,TM Wasfy�,asmedigitalcollection.asme.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S345,2018,3D Reconstruction of CT Colonography Models for VR/AR Applications using Free Software Tools,SF Paulo N Figueiredo JA Jorge DS Lopes,academia.edu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S346,0,Uniform Software Environment for AR Performance Evaluation based on,USB boot Linux,kameda-lab.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S347,2010,A software framework for the development of projection-based augmented reality systems,M Sunet P�rez M Comino Trinidad…�,upcommons.upc.edu,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S348,2021,Forecasting Software Using Laplacian AR Model based on Bootstrap-Reversible Jump MCMC: Application on Stock Price Data,Y Hairun I Alhaddad T Machmud H Suharna…�,webology.org,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S349,0,How Augmented Reality Can Help Develop the Sense of Belonging in Software Engineers Working Remotely,LMM dos Reis Ramalho,luisramalho.com,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,No
+S350,2015,21st ACM Symposium on Virtual Reality Software and Technology,Q Zhao D Thalmann MC Lin L Wang�,dl.acm.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S351,0,A Software Architecture for Distributed AR Applications,G de Oliveira L Pavanatto V Abichequer M Sarroglia,leonardopavanatto.com,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S352,2011,Implementation of pallet loading method and virtual reality to the new software product,D KRAVEC M TOLNAY O STAŠ…�,spms.masfak.ni.ac.rs,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S353,2022,Designing Android Software Applying Augmented Reality on the Teaching and Studying of Gasoline Engine Sensors,NN Tan�,jte.hcmute.edu.vn,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S354,2011,Implementation of pallet loading method and virtual reality to the new software product,D KRAVEC M TOLNAY O STAŠ…�,spms.masfak.ni.ac.rs,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S355,2022,Designing Android Software Applying Augmented Reality on the Teaching and Studying of Gasoline Engine Sensors,NN Tan�,jte.hcmute.edu.vn,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S356,2019,Experiencing Software Architecture in Virtual Reality,C Zirkelbach A Krause W Hasselbring,researchgate.net,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S357,2002,Software Verification & Validation Report for the 244-AR Vault Interim Stabilization Ventilation System,T Yeh,osti.gov,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S358,0,Virtual Reality software taxonomy,R ROLLAND S RICHIR,doyoubuzz.com,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S359,0,Virtual Reality Applications in Software Engineering Education: A Systematic Review,GV de Andrade ALC Gomes F Rohr MGF Hoinoski…,researchgate.net,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S360,2020,Design and validation of Virtual Reality software package with real images for treatment of attention deficit disorder symptoms,F Khojastebakht J Rasti M Tavakoli…�,academia.edu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S361,2020,Multi-Agent Software Architecture for Distributed Virtual Reality Systems,V Duchenchuk V Boublik�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S362,2019,Software Engineering for AR-Systems considering User Centered Design Approaches,T Schwei� L Thomaschewski A Kluge…�,dl.gi.de,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S363,2015,Development of a mobile borehole investigation software using augmented reality,J Son S Lee M Oh DE Yun S Kim…�,ui.adsabs.harvard.edu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S364,2019,Design of the Walking Pattern Generation Software of AR-600 Anthropomorphic Platform,L Khokhlova D Zhdanov A Bureev…�,iopscience.iop.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S365,2015,Software techniques for improving head mounted displays to create comfortable user experiences in virtual reality,P Budhiraja,ideals.illinois.edu,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S366,2017,Selection of optimal software for immersive virtual reality application of city bus configurator,P Buń F G�rski P Zawadzki R Wichniarek…�,Springer,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S367,2021,Measuring the Effectiveness of Chemistry Augmented Reality Software on Students' Learning with a Focus on the Concept of Catalysts,E Jafari A Abdolali M Hosseinpoor�,chemedu.cfu.ac.ir,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S368,2021,"A Hybrid Learning Approach for Subjects on Software Development of Automation Systems, Combining PBL, Gamification and Virtual Reality",D Leite H Santos A Rodrigues C Monteiro…�,sol.sbc.org.br,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S369,2014,Music-AR: Software for teaching children music perception,LS Gomez VF Martins VP Ruiz�,ieeexplore.ieee.org,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S370,2020,A Software Template for Multi-User Virtual Reality Applications,LEA Calabrese,search.proquest.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S371,2013,Authoring software for augmented reality applications for the use of maintenance and training process,EG Mend�vil,repositorio.tec.mx,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S372,0,QoS for Virtual Reality Software Based on,AA ABDULAZIZ AS MOHMAD ANBIN ZULKIFLI,researchgate.net,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S373,0,QoS for Virtual Reality Software Based on,AA ABDULAZIZ AS MOHMAD ANBIN ZULKIFLI,researchgate.net,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S374,2019,Android Smartphone Software Development for Audio Augmented Reality,Q Chen,dspace.cityu.edu.hk,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S375,0,New Equipment and Software Provided By Virtual Reality Technologies to Visual Designers,H Baran,researchgate.net,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S376,2020,Design and Implementation of Virtual Reality Video Incentive and Management Software,F Tian M Hua H Xu Y Li�,ieeexplore.ieee.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S377,2021,Software architecture for AR art exhibitions in unreal engine,MD Barsan,politesi.polimi.it,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S378,2014,ARPostIts: Mobile Application for Agile Software Engineering using Augmented Reality,D Deva T Lima C Werner C Rodrigues�,academia.edu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S379,2017,Increasing customization in a location-based augmented reality software platform,VC Jones,dspace.mit.edu,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S380,2017,Development of a Strategic Marketing Concept for B2B Augmented Reality Software Applications in Life Sciences-With Particular Reference to PTC,A Bitzer,opus.hs-furtwangen.de,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S381,,AN INNOVATION OF AUGMENTED REALITY LAB SHEET FOR DEE30015 ELECTRONIC EQUIPMENT REPAIR COURSE BY USING BLIPPAR SOFTWARE,MM ROSDI MASBTM AKHIR�,academia.edu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S382,2014,Research on three-dimensional virtual reality platform based on Multiple Software Platform,J Dai L Yin B Yang C Wang�,ieeexplore.ieee.org,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S383,2021,VIRTUAL REALITY SIMULATION SERVICE ON SDN SOFTWARE UNDER A LIMITED RESOURCE 5G MOBILE TERMINAL,В Тігарев Ю Бабич О Лопаков…�,tst.stu.cn.ua,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S384,2015,Embedded software product verification & validation using Virtual Reality [VIL],M Patil�,ieeexplore.ieee.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S385,2020,The BIAS-VR. Assessing body image disturbance using a virtual reality software. Preliminary results.,M FERRER,repositori.uji.es,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S386,2020,Creation of a Hardware-Software Complex for the Transmission of Odor in Virtual Reality Environments,A Smolin K Malyshev A Spiridonova…�,ceur-ws.org,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,No
+S387,2020,"Development of the Software for Examination of the Crime Scene by Using Virtual Reality, Based on Spherical Panoramic Shot and 3D-Scanning",G Rusman E Popova�,ieeexplore.ieee.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S388,2020,Physiological Aspects of the User's Immersion in the Virtual Reality Environment on the Example of Creating a Hardware-Software Complex for Smell�…,A Smolin K Malyshev A Spiridonova…�,ceur-ws.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S389,0,The Contribution of Virtual Reality Software to Design in Teaching Physical Education,E ZARETSKY,iiisci.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S390,2010,Development of Environment Education Software using Virtual Reality,KW Lee BW Jin�,koreascience.or.kr,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S391,2018,HyDE: A Hyper-Display Environment in Mixed and Virtual Reality and its Application in a Software Development Case Study,R Oberhauser A Matic…�,opus-htw-aalen.bsz-bw.de,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S392,2017,Guest Editors Introduction: Special Section on the ACM Symposium on Virtual Reality Software and Technology 2015,L Wang M Lin E Wu�,computer.org,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,No
+S393,2022,Virtual outcrop geology comes of age: The application of consumer-grade virtual reality hardware and software to digital outcrop data analysis,TD Seers A Sheharyar S Tavani A Corradetti�,Elsevier,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S394,2019,Systematic Analysis of Graphics-Based Hardware and Software for Virtual Reality Instructional Framework,M Chandramouli�,par.nsf.gov,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S395,2021,Innovation Through Universal Design in Agile UX Software Development Teams. A Collaborative Case Study of an Under Graduate AR Tourist Guide Project,E Finn J Kuusinen�,books.google.com,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S396,2014,Multi-view structure from motion software platform for augmented reality applications,C H�roğlu,acikbilim.yok.gov.tr,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S397,1996,HoloSketch: A Virtual Reality Sketching/Animation Tool Special Issue on Virtual Reality Software and Technology,MF Deering,papers.cumincad.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S398,0,A Study On A Gaming Software As the Virtual Reality Tools,SH Ting S Mohamaddan,academia.edu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S399,2014,Best Papers from the 19th ACM Symposium on Virtual Reality Software and Technology (VRST 2013) Guest Editors' Introduction,NM Thalmann D Thalmann�,ieeexplore.ieee.org,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,No
+S400,0,A Study On A Gaming Software As the Virtual Reality Tools,SH Ting S Mohamaddan,academia.edu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S401,2014,Best Papers from the 19th ACM Symposium on Virtual Reality Software and Technology (VRST 2013) Guest Editors' Introduction,NM Thalmann D Thalmann�,ieeexplore.ieee.org,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,No
+S402,2018,3D Virtual reality software in manufacturing process simulation: Perspective in Russian Context,P Kazmina�,elibrary.ru,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S403,0,""" Dynamic Differential Geometry in an Educational Augmented Reality Application""; Betreuer/in (nen): H. Kaufmann; Institute of Software Technology and Interactive�…",M Tschurlovits,pub-inf.tuwien.ac.at,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S404,2020,Software visualization of geospatial data based on virtual reality systems. Survey and future developments,VL Averbukh NV Averbukh PA Vasev IL Gvozdarev…,elar.urfu.ru,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S405,2018,Software Development of Local Flower Recognition in Tomohon City based on Augmented Reality,VR Palilingan,scitepress.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S406,2020,Possibilities of the Application of ghe Software for Welding in Virtual Reality on the Welders Training,R Prokić,portal.sinteza.singidunum.ac.rs,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S407,2018,A Virtual reality-based training environment designed for hands-on experience of software development,U G�le�,open.metu.edu.tr,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S408,2020,Possibilities of the Application of ghe Software for Welding in Virtual Reality on the Welders Training,R Prokić,portal.sinteza.singidunum.ac.rs,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S409,2018,A Virtual reality-based training environment designed for hands-on experience of software development,U G�le�,open.metu.edu.tr,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S410,2005,Vice: An interface designed for complex engineering software: An application of virtual reality,MJ Taylor,search.proquest.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S411,2018,Developing A-Freemium Mobile Games Software Based On Augmented Reality-Commerce,A Kusumaningsih CV Angkoso…�,atlantis-press.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S412,2017,"Therapist-led and at-home one-session Virtual Reality exposure therapy for public speaking anxiety using consumer hardware and software, with online maintenance�…",P Lindner A Miloff S Fagern�s J Andersen…�,diva-portal.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S413,2003,"Tutorial for VR-OpenMASK, a Software Development Platform for Virtual Reality",A Chauffaut T Duval C Le Tenier M Rouill�,researchgate.net,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S414,2017,VRComponent': A Virtual Reality Software for Neuro-Rehabilitation with Robotics Technologies,C �vila L Manso PBG Castro P N��ez�,Springer,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S415,2019,…�-led and self-led one-session virtual reality exposure therapy for public speaking anxiety with consumer hardware and software: A randomized controlled trial”�…,P Lindner A Miloff S Fagern�s…�,portal.findresearcher.sdu.dk,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S416,2019,A MIDI Editing Software for Composition and Cooperation on AR Environment,SY Bae HM Lee JS Choi�,koreascience.or.kr,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S417,2009,Cynllun Achredu ar gyfer Meddalwedd Dwyieithog/Accreditation Scheme for Bilingual Software,J Evas,orca.cardiff.ac.uk,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S418,2013,Requirements prioritization by end-users and consequences on design of a Virtual Reality software,E Loup,scitepress.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S419,1994,Virtual reality software allows managers to simulate capitation.,K Pallarito�,elibrary.ru,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S420,0,SOFTWARE VISUALIZATION OF GEOSPATIAL DATA BASED ON VIRTUAL REALITY SYSTEMS. SURVEY AND FUTURE DEVELOPMENTS Software�…,VL Averbukh NV Averbukh,researchgate.net,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S421,2009,Entwicklung einer software zur bestimmung morphologischer informationen von wurzelsystemen mit Virtual Reality techniken,S Wienke,juser.fz-juelich.de,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S422,2020,…�this method. The ratio of Ni and Nk is the enrich-ment as atom% but is converted by the software to weight% which is more commonly employed in the nucle-ar�…,E RE�,publications.jrc.ec.europa.eu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S423,2016,"Architecting for Adaptive Resource Management in Mobile Augmented Reality Systems: Models, Metrics and Prototype Software Solutions",M Tkachuk O Vekshyn R Gamzayev�,Springer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S424,0,"…�for Augmented Reality Systems, Tokyo, Japan; 07.10. 2003; in:"" Proceedings of the International Workshop on Software Technology for Augmented Reality Systems""�…",M Bauer O Hilinges A MacWilliams C Sandor…,pub-inf.tuwien.ac.at,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S425,2016,"Architecting for Adaptive Resource Management in Mobile Augmented Reality Systems: Models, Metrics and Prototype Software Solutions",M Tkachuk O Vekshyn R Gamzayev�,Springer,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S426,0,"…�for Augmented Reality Systems, Tokyo, Japan; 07.10. 2003; in:"" Proceedings of the International Workshop on Software Technology for Augmented Reality Systems""�…",M Bauer O Hilinges A MacWilliams C Sandor…,pub-inf.tuwien.ac.at,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S427,2014,Legal Protection of Virtual Reality. An Attempt at the Practical Recognition of Software Ownership in Local Conditions,P Sydor�,yadda.icm.edu.pl,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S428,2017,Construction and Use of Nansha Islands Digital Science Education Software with Virtual Reality Technology,Y Kong Y Jin�,atlantis-press.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S429,2017,Development of a virtual reality platform as a training tool using gaming software,S Mohamaddan TS Hong…�,scholar.archive.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S430,2005,Virtual reality devices integration in scientific visualization software in the VtkVRPN framework,G Journe C Guilbaud,inis.iaea.org,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S431,2011,Software Environment for Repetition of AR/MR Demonstration Performance--Casper Cartridge Project,M Hayashi I Kitahara Y Kameda Y Ohta�,ieice.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S432,2017,Development of a virtual reality platform as a training tool using gaming software,S Mohamaddan TS Hong…�,scholar.archive.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S433,2005,Virtual reality devices integration in scientific visualization software in the VtkVRPN framework,G Journe C Guilbaud,inis.iaea.org,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S434,2011,Software Environment for Repetition of AR/MR Demonstration Performance--Casper Cartridge Project,M Hayashi I Kitahara Y Kameda Y Ohta�,ieice.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S435,2015,Experimental Data for: Exploring Software Cities through Virtual Reality,F Fittkau A Krause W Hasselbring,oceanrep.geomar.de,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S436,2019,Augmented Reality Aided Analysis of Customer Satisfaction based on Taste-Induced Facial Expression Recognition Using Affdex Software Developer's Kit,JR Balbin CC Paglinawan MJA de Castro…�,dl.acm.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S437,2016,AN APPROACH FOR COMBINING THE CAPABILITIES OF IMMERSIVE VIRTUAL REALITY AND MODERN CAD-CAM SOFTWARE SYSTEMS TO CREATE VIRTUAL�…,SD Slavov�,stumejournals.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S438,2018,Development of virtual reality software for the design of spatial compliant mechanisms on oculus rift device,SR Komanduri Ranganath,ideals.illinois.edu,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S439,2021,…�of Heru Visual field as a cloud based artificial intelligence-powered software application downloadable on commercial augmented reality headset with Humphrey�…,… C Duque T Eleiwa AR Shaheen…�,iovs.arvojournals.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S440,2018,Development of virtual reality software for the design of spatial compliant mechanisms on oculus rift device,SR Komanduri Ranganath,ideals.illinois.edu,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S441,2021,…�of Heru Visual field as a cloud based artificial intelligence-powered software application downloadable on commercial augmented reality headset with Humphrey�…,… C Duque T Eleiwa AR Shaheen…�,iovs.arvojournals.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S442,2001,An�lise e planejamento financeiro no ambiente empresarial atrav�s de um modelo informatizado: software Ar-Financial,A Rasoto,repositorio.ufsc.br,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S443,2015,AR. Drone quadcopter control software,SK Chan,144.214.8.231,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S444,2019,Developing Virtual Reality Software to Graph 3-D Curves with Applications in College Level Mathematics Education.,B Crutchley ML Bowers P Anthony…�,pwvas.org,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S445,2012,Development of a software based calibration system for automobile assembly system oriented AR,JW Park HS Park�,koreascience.or.kr,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S446,2019,Design and Development of Experiential Teaching Software for Computer Major in the Open University of China Based on AR,X Jian,computertelecom.com.cn,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S447,2017,Construction and Use of Nansha Islands Digital Science Education Software with Virtual Reality Technology,K Yiquan J YiFu,atlantis-press.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S448,2020,"4-dimensional Virtual Reality Cine Cardiac Model Using Free, Open-source Software",S Priya P Nagpal�,journalofcardiovascularct.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S449,2000,Virtual software in reality,C Knight,etheses.dur.ac.uk,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S450,2004,…�-Aware Service Selection Based on the Augmented Reality Toolkit Systementwicklungsprojekt Technische Universit�t M�nchen Chair for Applied Software�…,F L�w,Citeseer,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S451,2019,"A software solution for ALS patients to automate hospital rooms by combining BIM, Virtual Reality and IoT",F Alotto,webthesis.biblio.polito.it,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S452,0,""" Physics Education in the Field of Mechanics with Virtual Reality""; Betreuer/in (nen): H. Kaufmann; Institute for Software Technology & Interactive Systems, 2007.",B Meyer,pub-inf.tuwien.ac.at,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S453,2016,Design and Realization of Simulation System Combined With Virtual Reality of Tool Controller Mechanism for Machining Center Based on Irai Software,MY Liu W Zhao K Wang YG Chen…�,atlantis-press.com,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,No
+S454,2004,SIMULATING AND CALCULATING SOME PARAMETERS OF AR GAS DISCHARGE PLASMA BY MATLAB SOFTWARE,TTT Nhi�,stdj.scienceandtechnology.com.vn,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S455,2007,Validation and Verification of Software Systems Using Virtual Reality and Coloured Petri Nets,H Almeida L Silva G Ferreira E Loureiro…�,igi-global.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S456,2007,Validation and Verification of Software Systems Using Virtual Reality and Coloured Petri Nets,H Almeida L Silva G Ferreira E Loureiro…�,igi-global.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S457,2013,Creations of a hardware-software complex providing dynamic balance and movement robotic system AR-600.,P Lozhkin O Tolstel�,search.ebscohost.com,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S458,2020,…�L1 (UCH-L1) as a fluid biomarker of human traumatic spinal cord injuryPresentation J64. Abstract 13: Utility and role of virtual reality based simulation models in�…,P Missiuna J Shen I Nahle M Alanazi J Rutges…,canjsurg.ca,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S459,2005,Virtual reality devices integration in scientific visualization software in the VtkVRPN framework; Integration de peripheriques de realite virtuelle dans des applications�…,G Journe C Guilbaud,osti.gov,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S460,2005,A software toolkit and authoring tools for user interfaces in ubiquitous augmented reality,C Sandor,mediatum.ub.tum.de,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S461,0,BNCT-AR: Software development for the analysis of histological and autoradiographic images from neutron capture therapy protocols,C Vidal A Portu G Saint Martin,inis.iaea.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S462,2005,Virtual reality devices integration in scientific visualization software in the VtkVRPN framework; Integration de peripheriques de realite virtuelle dans des applications�…,G Journe C Guilbaud,osti.gov,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S463,2005,A software toolkit and authoring tools for user interfaces in ubiquitous augmented reality,C Sandor,mediatum.ub.tum.de,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,No
+S464,0,BNCT-AR: Software development for the analysis of histological and autoradiographic images from neutron capture therapy protocols,C Vidal A Portu G Saint Martin,inis.iaea.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S465,2020,"Training of medical residents based on electronic social media using pictorial, software, audio, video, and virtual reality capabilities",M Massaeli S Nasouhi M Shahabian�,ebnesina.ajaums.ac.ir,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S466,2019,THE CONCEPT OF USING SOFTWARE AND HARDWARE COMPLEX IN A VIRTUAL REALITY ENVIRONMENT 3D DIGITAL DESIGN AND TECHNOLOGICAL�…,ВГ Читак�,nti.khai.edu,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S467,0,A NOVEL SOFTWARE FRAMEWORK FOR 3D MOTION ESTIMATION WITH A 6-DOF MEMS IMU FOR A VIRTUAL REALITY ENVIRONMENT,C K����k E �zkan DT Altılar,itu.edu.tr,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,No
+S468,1994,"Virtual Reality Software and Technology 94,(VRST'94) Held at Institute of Systems Science (ISS), Kent Ridge, Singapore on 23-26 August 1994.",J Motiwalla S Feiner,apps.dtic.mil,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S469,0,VIRTUAL REALITY OF AL-HARAM AL-MAKKAI EXPANSIONS USING 3DMAX AND ARCGIS SOFTWARE,A Salem S Musallam ES Nada A Ahmed,academia.edu,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S470,0,A Software Framework for Controlling Virtual Reality Avatars via a Brain-Computer Interface,D Porić A Mulloni R Leeb D Schmalstieg,researchgate.net,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S471,0,A Software Framework for Controlling Virtual Reality Avatars via a Brain-Computer Interface,D Porić A Mulloni R Leeb D Schmalstieg,researchgate.net,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Yes
+S472,2001,Feasibility of a pre-implantation fitting test for an implantable hearing aid using a VR (virtual reality) software,F Dammann A Bode M Heuschmid…�,inis.iaea.org,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S473,2016,""" VIRTUAL ACT DEFUSION"": A JAVA-BASED SOFTWARE TO JOIN ACT PSYCHOTHERAPY WITH THE VIRTUAL REALITY",S Platania A Gandolfo L L'Episcopo…�,elibrary.ru,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S474,0,""" Kinetosis/Motion Sickness: A new Approach for Adaptation in Virtual Reality""; Betreuer/in (nen): H. Kaufmann; Institute for Software Technology and Interactive�…",P K�lndorfer,pub-inf.tuwien.ac.at,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S475,2018,DEVELOPING SOFTWARE OF JOB INTERVIEW APPLICATION ON VIRTUAL REALITY SYSTEM USING VR GLASSES FOR BUSINESS ENGLISH STUDENTS UMM,M Jailani,eprints.umm.ac.id,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S476,,"Ab Rahim, L., Taib, SM, & Shazi, AR (2007). XMLtemplate: Framework that minimizes the number of software components. Paper presented at the Proceedings�…",OA Abdalla MN Zakaria S Sulaiman WFW Ahmad�,Citeseer,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+S477,2021,ANALISIS SOFTWARE DEVELOPMENT KIT & METODE AUGMENTED REALITY: TINJAUAN SISTEMATIS,A Prasetyo�,jurnal.ustjogja.ac.id,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,No
+S478,,SEE ALSO Artificial Intelligence; Database Management Software; E-commerce; Expert Systems; Internet; Intranet; SQL; Virtual Reality.,A Debons�,s2.bitdl.ir,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,No
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,

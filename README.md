@@ -6,9 +6,9 @@ This repo contains the contents for the replication package for the SLR
 It contains all the data and resources used to conduct the research, including:
 
 - the set of papers for the initial search
-- the data_selection sheet, in which the selection criteria have been applied
-to the set of initial papers
-- the data_extraction sheet, in which the details of the final primary studies
+- the `data_selection` sheet, in which the selection criteria have been applied
+  to the set of initial papers
+- the `data_extraction` sheet, in which the details of the final primary studies
 
 ## Initial search
 
